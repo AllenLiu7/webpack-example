@@ -1,0 +1,6 @@
+{
+  "presets": [
+    "@babel/preset-env", // is the default Babel preset used to transform ES6+ into valid ES5 code. Optionally configures browser polyfills
+    "@babel/preset-react" //used for transforming JSX and React class syntax into valid JavaScript code.
+  ]
+}
